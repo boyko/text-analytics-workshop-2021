@@ -1,6 +1,6 @@
 # Introduction to text analytics 2021
 
-All meetings will take place online via Skype: [https://join.skype.com/ICLVQrErNSWj(https://join.skype.com/ICLVQrErNSWj)
+All meetings will take place online via Skype: [https://join.skype.com/ICLVQrErNSWj](https://join.skype.com/ICLVQrErNSWj)
 
 ## Schedule
 
