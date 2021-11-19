@@ -12,3 +12,7 @@ All meetings will take place online via Skype: [https://join.skype.com/ICLVQrErN
 ## Details
 
 TBA
+
+## Environment setup
+
+
