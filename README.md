@@ -45,7 +45,7 @@ notebooks](https://jupyter.org/).
    type
 
     ```
-    pip install tensorflow=2.2.0
+    pip install tensorflow==2.2.0
     ```
 
    to install tensorflow (this can take some time).
